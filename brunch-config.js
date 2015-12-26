@@ -19,6 +19,7 @@ exports.config = {
         }
     },
     conventions: {
-        assets: /static[\\/]/
+        assets: /static[\\/]/,
+        ignored: /components[\\/]/
     }
 };
