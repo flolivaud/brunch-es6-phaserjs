@@ -21,5 +21,9 @@ exports.config = {
     conventions: {
         assets: /static[\\/]/,
         ignored: /components[\\/]/
+    },
+    modules: {
+        wrapper: false,
+        definition: false
     }
 };
