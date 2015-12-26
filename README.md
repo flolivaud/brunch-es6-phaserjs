@@ -8,4 +8,4 @@ bower install
 ```
 
 - All *".es6"* files in *"/app/"* will be compiled to *"/public/js/main.js"*
-- Allfiles in *"/app/static/"* will be copied to *"/public/"* folder
+- All files in *"/app/static/"* will be copied to *"/public/"* folder
