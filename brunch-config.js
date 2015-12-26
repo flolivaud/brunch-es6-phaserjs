@@ -1,7 +1,7 @@
 exports.config = {
-    path: {
+    paths: {
         watched: [
-            'src'
+            'app'
         ]
     },
     files: {
